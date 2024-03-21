@@ -7,7 +7,6 @@
 
 **-** Sqlite
 
-chat bot is an bot which will chat with you when you need someone to chat
 
 
 ## Initial Setup:
@@ -15,7 +14,7 @@ chat bot is an bot which will chat with you when you need someone to chat
 Clone repo and create a virtual environment
 
 ```
-$ git clone https://github.com/jgirish23/Tickter
+$ git clone https://github.com/Tejas124/Ticket-raising-Django-application
 $ cd mysite
 $ python -m venv .env
 $ source venv/bin/activate
