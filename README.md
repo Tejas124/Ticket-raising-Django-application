@@ -1,4 +1,4 @@
-# Tickter
+# Ticket Raising System
 
 
 ## Tech Stack
